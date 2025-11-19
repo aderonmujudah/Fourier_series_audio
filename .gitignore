@@ -1,0 +1,38 @@
+# MATLAB autosave files
+*.asv
+*.autosave
+
+# MATLAB temporary/cache files
+*.m~
+slprj/
+*.slxc
+sccprj/
+
+# Audio files (large binary files - comment out if you want to track them)
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# MATLAB figure files (binary - comment out if you want to track them)
+*.fig
+
+# Code generation folders
+codegen/
+
+# Build artifacts
+*.mex*
+*.exe
+*.o
+*.obj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*~
